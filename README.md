@@ -1,4 +1,7 @@
-# validateType how to use it 
+# validateType 
+## modify from yii CDateTimeParser
+## refer to https://www.yiiframework.com/doc/api/1.1/CDateTimeParser
+# how to use it 
 
 `$a = new validateType();`
 
